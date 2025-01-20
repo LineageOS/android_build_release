@@ -39,6 +39,24 @@
       "message": "possible to merge now?",
       "revId": "12ddf8f023043f58017a7ecba4ea1a4c48e69277",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "546d8878_62052363",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-01-20T11:22:08Z",
+      "side": 1,
+      "message": "No, because the mentioned patch is still missing and google hasn\u0027t updated the ASB page with links.",
+      "parentUuid": "c10a0828_80cb6460",
+      "revId": "12ddf8f023043f58017a7ecba4ea1a4c48e69277",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
