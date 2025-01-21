@@ -26,6 +26,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "ce77bba6_5570f6b7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-01-21T12:18:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "065c0461_26f2fa4b",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 68
+      },
+      "revId": "12ddf8f023043f58017a7ecba4ea1a4c48e69277",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "c10a0828_80cb6460",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1
@@ -73,6 +97,24 @@
       "side": 1,
       "message": "Comparing https://osv.dev/vulnerability/ASB-A-360846772 and https://osv.dev/vulnerability/ASB-A-369351375 indicates that the patch fixing CVE-2024-49744 includes fixing CVE-2024-49724: Both descriptions point to the very same patches. What do you think?",
       "parentUuid": "546d8878_62052363",
+      "revId": "12ddf8f023043f58017a7ecba4ea1a4c48e69277",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66e34c75_55914bc7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-01-21T12:18:51Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "3092f524_20802c91",
       "revId": "12ddf8f023043f58017a7ecba4ea1a4c48e69277",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
