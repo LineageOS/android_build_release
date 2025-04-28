@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "disable_synthetic_vsync_for_performance"
+  state: ENABLED
+  permission: READ_ONLY
+}
