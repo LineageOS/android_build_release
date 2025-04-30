@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "maybe_default_speaker_after_unhold"
+  state: ENABLED
+  permission: READ_ONLY
+}
