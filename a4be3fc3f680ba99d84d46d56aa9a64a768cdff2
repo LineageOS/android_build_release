@@ -16,6 +16,24 @@
       "message": "The commit e45ef2e4c \"Add permissions check to isInSignificantPlace\" for CVE-2024-49730 doesn\u0027t exist in 21.0 but is listed in \"Previously Implemented\" \u0026 \"Not Applicable\"",
       "revId": "a4be3fc3f680ba99d84d46d56aa9a64a768cdff2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0fafd79_f6ce769e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2025-05-04T17:28:00Z",
+      "side": 1,
+      "message": "A-28498907/CVE-2024-49730 isn\u0027t \"Add permissions check to isInSignificantPlace\", it\u0027s https://android.googlesource.com/platform/packages/providers/MediaProvider/+/961c8cbd2a489277876aeffa40ebdee5eae29f1f",
+      "parentUuid": "2ba5503e_48f30aa9",
+      "revId": "a4be3fc3f680ba99d84d46d56aa9a64a768cdff2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
