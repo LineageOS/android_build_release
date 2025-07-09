@@ -1,0 +1,7 @@
+<<<<<<< HEAD   (4ad7b8 Bump Security String to 2025-06-01)
+=======
+name: "RELEASE_PLATFORM_SECURITY_PATCH"
+value: {
+  string_value: "2025-07-01"
+}
+>>>>>>> CHANGE (80d2b3 Bump Security String to 2025-07-01)
