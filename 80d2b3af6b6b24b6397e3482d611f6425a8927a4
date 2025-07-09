@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "07d5c8ce_708342fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2025-07-09T16:15:40Z",
+      "side": 1,
+      "message": "Tested all patched vulnerabilities against the PoCs.",
+      "revId": "80d2b3af6b6b24b6397e3482d611f6425a8927a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
