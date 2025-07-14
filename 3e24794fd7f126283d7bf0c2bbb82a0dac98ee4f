@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30ad57e3_2eb3c7ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26777
+      },
+      "writtenOn": "2025-07-14T06:33:43Z",
+      "side": 1,
+      "message": "Fixed my knowledge that Android is secure!",
+      "revId": "3e24794fd7f126283d7bf0c2bbb82a0dac98ee4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
