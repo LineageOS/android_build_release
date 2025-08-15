@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0884711_9af5a1f9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-15T17:03:50Z",
+      "side": 1,
+      "message": "Not applicable, 16 only, move to the right category. Also use spaces instead of tabs here and above",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 2
+      },
+      "revId": "72ab99ea5fdecf654203bd3c41b1314cc3a9d81f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
