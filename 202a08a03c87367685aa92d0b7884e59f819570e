@@ -70,6 +70,24 @@
       "parentUuid": "c93e3c1e_d58cd8ab",
       "revId": "202a08a03c87367685aa92d0b7884e59f819570e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d0acb3a_6d9e1df0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26658
+      },
+      "writtenOn": "2025-08-17T06:51:13Z",
+      "side": 1,
+      "message": "\u003e what are you talking about? These are different branches.... they aren\u0027t related at all....\n\nI\u0027m sorry if either my formulation was uncleas or I was wrong but I was and am under the impression that U_asb_2025-08 (442753) should be based on top of U_asb_2025-07 (437275) and the latter should be merged. Similar to V_asb_2025-08 (442752) is based on V_asb_2025-07 (436790) which is merged - 436790 that is.",
+      "parentUuid": "2e1aa865_3dbed146",
+      "revId": "202a08a03c87367685aa92d0b7884e59f819570e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
