@@ -1,4 +1,28 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "935af9e0_025d7761",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2025-08-30T16:54:39Z",
+      "side": 1,
+      "message": "Incorrect ref, should be f60fc2258f63",
+      "range": {
+        "startLine": 18,
+        "startChar": 73,
+        "endLine": 18,
+        "endChar": 84
+      },
+      "revId": "f966e5ea1c59c7a1f7dff451f2b2fa7859dab370",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
