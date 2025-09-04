@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1b954b8a_63025295",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-04T08:31:26Z",
+      "side": 1,
+      "message": "Unable to find where that fix is, other than a linux kernel patch",
+      "revId": "2603fa28820f3eb3bc79696ff488bd23d4bfb353",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "753c7939_9f871ecc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-04T08:31:26Z",
+      "side": 1,
+      "message": "Need to check this against 16 when sources are released",
+      "revId": "2603fa28820f3eb3bc79696ff488bd23d4bfb353",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
