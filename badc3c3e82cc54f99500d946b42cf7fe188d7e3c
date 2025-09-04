@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e8db0753_e1182a13",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-04T11:55:18Z",
+      "side": 1,
+      "message": "We still need a fix for this but the 15 patch does not apply since QPR 1/2 refactored the code. The 16 patch might apply but we have to wait until/if google releases the tags...",
+      "range": {
+        "startLine": 70,
+        "startChar": 0,
+        "endLine": 70,
+        "endChar": 55
+      },
+      "revId": "badc3c3e82cc54f99500d946b42cf7fe188d7e3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

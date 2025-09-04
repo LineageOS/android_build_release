@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "518ba9ad_0afca4fa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-04T11:55:18Z",
+      "side": 1,
+      "message": "This was fixed in https://android.googlesource.com/platform/packages/modules/Bluetooth/+/34a5ceced396f40eae30747d295e07d31f18e59d",
+      "parentUuid": "1b954b8a_63025295",
+      "revId": "2603fa28820f3eb3bc79696ff488bd23d4bfb353",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "753c7939_9f871ecc",
@@ -31,6 +49,24 @@
       "writtenOn": "2025-09-04T08:31:26Z",
       "side": 1,
       "message": "Need to check this against 16 when sources are released",
+      "revId": "2603fa28820f3eb3bc79696ff488bd23d4bfb353",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3bcac5b_0530350c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-04T11:55:18Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "753c7939_9f871ecc",
       "revId": "2603fa28820f3eb3bc79696ff488bd23d4bfb353",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
