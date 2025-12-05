@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78a0a764_5fba9387",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36319
+      },
+      "writtenOn": "2025-12-05T08:33:37Z",
+      "side": 1,
+      "message": "Are changes in Bluetooth repo not required? \n\nhttps://android.googlesource.com/platform/packages/modules/Bluetooth/+/d259085c61",
+      "revId": "a249537842062faf8bcbebe604f1db789b5d2aa0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
