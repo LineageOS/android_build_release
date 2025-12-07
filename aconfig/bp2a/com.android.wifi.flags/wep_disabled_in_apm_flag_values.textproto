@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "wep_disabled_in_apm"
-  state: ENABLED
-  permission: READ_ONLY
-}
