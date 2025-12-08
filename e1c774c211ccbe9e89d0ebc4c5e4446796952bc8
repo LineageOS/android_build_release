@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1a3f704_c14c6b56",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36319
+      },
+      "writtenOn": "2025-12-08T06:21:29Z",
+      "side": 1,
+      "message": "The change \nhttps://android.googlesource.com/platform/packages/modules/Bluetooth/+/d259085c61\n is inside a flag in A15 which was removed in A16 security patch. Then \nshouldn\u0027t this be done in A15 as well. The commit for A16 \nhttps://android.googlesource.com/platform/packages/modules/Bluetooth/+/769a3dea80",
+      "revId": "e1c774c211ccbe9e89d0ebc4c5e4446796952bc8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
