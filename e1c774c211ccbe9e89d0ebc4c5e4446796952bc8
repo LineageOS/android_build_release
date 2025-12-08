@@ -16,6 +16,24 @@
       "message": "The change \nhttps://android.googlesource.com/platform/packages/modules/Bluetooth/+/d259085c61\n is inside a flag in A15 which was removed in A16 security patch. Then \nshouldn\u0027t this be done in A15 as well. The commit for A16 \nhttps://android.googlesource.com/platform/packages/modules/Bluetooth/+/769a3dea80",
       "revId": "e1c774c211ccbe9e89d0ebc4c5e4446796952bc8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75342a55_e0193418",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-12-08T18:44:28Z",
+      "side": 1,
+      "message": "The flag is enabled on 15 https://github.com/LineageOS/android_build_release/blob/lineage-22.2/aconfig/bp1a/com.android.bluetooth.flags/save_peer_csrk_after_ltk_gen_flag_values.textproto#L4",
+      "parentUuid": "c1a3f704_c14c6b56",
+      "revId": "e1c774c211ccbe9e89d0ebc4c5e4446796952bc8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
