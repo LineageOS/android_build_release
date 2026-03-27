@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf0d7b6e_66f71375",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2026-03-27T12:09:56Z",
+      "side": 1,
+      "message": "I don\u0027t have a 22.2 device, but Emulator build created, which boots fine and seems to work OK. Please note: Many of the patches (~35-40%) had to be picked from the android-security-16.0.0_r4 tag",
+      "revId": "1401f2e455ce96e3e81b666afdbfc1480f2959ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
