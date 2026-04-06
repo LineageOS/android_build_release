@@ -1,4 +1,8 @@
 name: "RELEASE_PLATFORM_SECURITY_PATCH"
 value: {
+<<<<<<< PATCH SET (ef981b80e8cef1db0ebedb17f73e8a81f748d1f3 Bump Security String to 2026-04-01)
+  string_value: "2026-04-01"
+=======
   string_value: "2026-03-01"
+>>>>>>> BASE      (778cac2a4a5684109f7c5e2c8cb312c350c6ab79 Bump Security String to 2026-03-01)
 }
