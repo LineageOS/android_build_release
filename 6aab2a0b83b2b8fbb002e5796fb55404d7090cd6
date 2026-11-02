@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aadcf110_b41af738",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-11-02T18:01:28Z",
+      "side": 1,
+      "message": "All 15.0.0 CVE\u0027s are addressed (most with 16.0.0 patches due to being based on qpr3), with CVE-2026-55268 from 16.0.0 being applicable so it was pulled as well.",
+      "revId": "6aab2a0b83b2b8fbb002e5796fb55404d7090cd6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
